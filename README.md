@@ -1,4 +1,5 @@
 # Magic Scryfaller
+<img width="720" alt="ChatGPT Image 24 lug 2025, 16_46_56" src="https://github.com/user-attachments/assets/22553ead-e97f-44aa-847d-e904ecdf15ef" />
 
 **Magic Scryfaller** è uno script da riga di comando per scaricare automaticamente immagini di carte Magic: The Gathering usando le API di [Scryfall](https://scryfall.com/). Supporta opzioni avanzate per formattazione del nome file, filtro dei risultati, gestione del formato immagine e logging.
 
