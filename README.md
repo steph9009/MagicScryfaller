@@ -9,7 +9,7 @@
 * Gestione carte con fronte-retro
 * Personalizzazione della sintassi del nome file con segnaposto
 * File di configurazione `config.json` generato automaticamente
-* Log automatico (`MagicScan.log`) con rotazione oltre 10.000 righe
+* Log automatico (`MagicScryfaller.log`) con rotazione oltre 10.000 righe
 * Modalità dry-run per simulare i download
 * Barra di avanzamento elegante con `tqdm`
 * Opzione `--quiet` per output silenzioso
@@ -32,6 +32,7 @@ pip install -r requirements.txt
 ```bash
 python MagicScryfaller.py "<query>"
 ```
+La query supporta la stessa sintassi del sito di [Scryfall](https://scryfall.com/docs/syntax).
 
 ### Esempi:
 
