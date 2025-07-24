@@ -42,9 +42,9 @@ python MagicScryfaller.py "t:land" --dry-run --format art_crop
 ```
 
 ### Screenshot:
-<img width="1004" height="344" alt="immagine" src="https://github.com/user-attachments/assets/60f896e3-b08f-4e86-80d9-1551a9d3c48c" />
-<img width="1004" height="267" alt="immagine" src="https://github.com/user-attachments/assets/17e6ed04-15b4-4208-9964-6a2c7f42f07e" />
-<img width="2117" height="875" alt="immagine" src="https://github.com/user-attachments/assets/4f213fcf-c7ec-4080-bd5f-9ba8ed5439f7" />
+<img width="720" alt="--dry-run" src="https://github.com/user-attachments/assets/aa97c53c-eb55-448e-935c-73de79e9d340" />
+<img width="720" alt="--max" src="https://github.com/user-attachments/assets/17e6ed04-15b4-4208-9964-6a2c7f42f07e" />
+<img width="720" alt="downloads" src="https://github.com/user-attachments/assets/4f213fcf-c7ec-4080-bd5f-9ba8ed5439f7" />
 
 ### Opzioni disponibili:
 
