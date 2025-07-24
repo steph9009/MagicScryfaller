@@ -1,0 +1,7 @@
+{
+  "output_folder": "images",
+  "max": null,
+  "dry_run": false,
+  "format": "png",
+  "filename": "{set_code}-{number}. {name}"
+}
