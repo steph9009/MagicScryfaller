@@ -92,7 +92,7 @@ Esempio:
 
 ## Log
 
-Lo script crea automaticamente un file di log `MagicScan.log` nella cartella di destinazione. Quando supera le 10.000 righe, viene svuotato automaticamente.
+Lo script crea automaticamente un file di log `MagicScryfaller.log` nella cartella di destinazione. Quando supera le 10.000 righe, viene svuotato automaticamente.
 
 ## Licenza
 
