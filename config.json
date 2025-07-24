@@ -3,5 +3,7 @@
   "max": null,
   "dry_run": false,
   "format": "png",
-  "filename": "{set_code}-{number}. {name}"
+  "filename": "{set_code}-{number}. {name}",
+  "quiet": false,
+  "log_level": "all"
 }
